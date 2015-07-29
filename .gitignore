@@ -1,0 +1,5 @@
+*.*
+files/*
+images/*
+!css/galaxies.css
+!.gitignore
