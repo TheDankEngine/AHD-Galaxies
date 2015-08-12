@@ -17,6 +17,9 @@ form[name="polls"] input[type="radio"] {
     margin-right: 5px;
 }
 
+/* This will fix headers in forum posts being on two lines */
+span[style*="float"] { float: none !important; }
+
 #forums {
  -ms-word-break: break-all;
      word-break: break-all;
