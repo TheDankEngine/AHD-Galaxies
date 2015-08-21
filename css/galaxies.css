@@ -1643,10 +1643,10 @@ and swag
 */
 
 .unread {
-	background: url('https://dl.dropboxusercontent.com/s/q0wfdx3y2ykyvp5/unread.gif') no-repeat center center;
+	background: url('http://i.imgur.com/jqAUzO9.gif') no-repeat center center;
 }
 .read {
-	background: url('https://dl.dropboxusercontent.com/s/d0fkep9r9k0g5q8/read.gif') no-repeat center center;
+	background: url('http://i.imgur.com/gXBTyC1.gif') no-repeat center center;
 	width: 35px;
 }
 #last5 {
@@ -1656,17 +1656,17 @@ and swag
 	vertical-align: top;
 }
 .cats_movies {
-	background: url('https://dl.dropboxusercontent.com/s/ko5hngjouwh4awg/movies2.png') no-repeat center center;
+	background: url('http://i.imgur.com/q2smaQI.png') no-repeat center center;
 	width: 50px;
 	height: 50px;
 }
 .cats_tvshows {
-	background: url('https://dl.dropboxusercontent.com/s/2i9apq5pkimmvh6/tv2.png') no-repeat center center;
+	background: url('http://i.imgur.com/zblRolO.png') no-repeat center center;
 	width: 50px;
 	height: 50px;
 }
 .show_torrents {
-	background: url('https://dl.dropboxusercontent.com/s/8xvyxgphyufyonv/what_show.gif') no-repeat center center;
+	background: url('http://i.imgur.com/hjHrwqw.gif') no-repeat center center;
 }
 #user .sidebar img[alt$="avatar"] {
 	width: 150px;
@@ -1677,7 +1677,7 @@ and swag
 	padding-left: 5px;
 }
 .last_read a {
-	background: url("https://dl.dropboxusercontent.com/s/tq0pb93e15evzxe/go_last_read.png") no-repeat center center;
+	background: url("http://i.imgur.com/pcpbyqy.png") no-repeat center center;
 	width: 100%;
 	height: 100%;
 	display: block;
@@ -1685,11 +1685,11 @@ and swag
 
 .unread_sticky {
 	width: 35px;
-	background: url("https://dl.dropboxusercontent.com/s/bzfw2etdlmp55rg/sticky_unread.gif") no-repeat center center;
+	background: url("http://i.imgur.com/xTg5QSt.gif") no-repeat center center;
 }
 .read_sticky {
 	width: 35px;
-	background: url("https://dl.dropboxusercontent.com/s/qvtvc16g73zuppk/sticky_read.gif") no-repeat center center;
+	background: url("http://i.imgur.com/3fsdBvv.gif") no-repeat center center;
 }
 .last_topic {
 	padding-left: 5px;
@@ -1699,7 +1699,7 @@ body {
 	height:100%;
 	background-attachment: fixed;
 	background-color: #111 !important;
-	background-image:url('https://dl.dropboxusercontent.com/s/1yjlashze6ck85w/galaxies-background.png');
+	background-image:url('http://i.imgur.com/7M0tbRi.png');
 	color:#ddd;
 	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
 	font-size:12px;
@@ -1785,7 +1785,7 @@ input[type="text"],input[type="password"] {
 }
 
 #header {
-	background-image:url('https://dl.dropboxusercontent.com/s/9l1lg3lcx5oer4o/galaxies.jpg');
+	background-image:url('http://i.imgur.com/8jskTZ7.jpg');
 	background-position: -100px center;
 	background-color:#333;
 	margin:0 auto;
@@ -1808,15 +1808,6 @@ input[type="text"],input[type="password"] {
 
 #footer a {
 	color:#a0a0a0;
-}
-
-#logo {
-	position: relative;
-	top: 30px;
-	background: url('https://dl.dropboxusercontent.com/s/die905486d4du3e/galaxies-logo.png') top left no-repeat !important;
-	width: 376px;
-	height: 61px;
-	margin: 0 auto 15px auto;
 }
 
 #logo a {
@@ -1863,22 +1854,22 @@ input[type="text"],input[type="password"] {
 
 /* Invite */
 #userinfo_major li.invites a:before {
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -178px -16px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -178px -16px;
 	top: 2px;
 }
 
 #userinfo_major li.invites a:hover:before {
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -178px -30px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -178px -30px;
 	top: 2px;
 }
 
 #userinfo_major li.invites.enabled a:before {
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -164px -16px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -164px -16px;
 	top: 2px;
 }
 
 #userinfo_major li.invites.enabled a:hover:before {
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -164px -30px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -164px -30px;
 	top: 2px;
 }
 
@@ -1994,88 +1985,88 @@ input[type="text"],input[type="password"] {
 
 /* Inbox */
 #userinfo_minor li:nth-child(1) a:before {
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat 0px 0px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat 0px 0px;
 }
 
 #userinfo_minor li:nth-child(1) a:hover:before {
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat 0px -14px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat 0px -14px;
 }
 
 /* Uploads */
 #userinfo_minor li:nth-child(2) a:before {
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -14px 0px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -14px 0px;
 }
 
 #userinfo_minor li:nth-child(2) a:hover:before {
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -14px -14px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -14px -14px;
 }
 
 /* Bookmarks */
 #userinfo_minor li:nth-child(3) a:before {
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -28px 0px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -28px 0px;
 }
 
 #userinfo_minor li:nth-child(3) a:hover:before {
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -28px -14px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -28px -14px;
 }
 
 /* Notifications */
 #userinfo_minor li:nth-child(4) a:before {
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -42px 0px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -42px 0px;
 }
 
 #userinfo_minor li:nth-child(4) a:hover:before {
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -42px -14px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -42px -14px;
 }
 
 /* Posts */
 #userinfo_minor li:nth-child(5) a:before {
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -56px 0px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -56px 0px;
 }
 
 #userinfo_minor li:nth-child(5) a:hover:before {
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -56px -14px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -56px -14px;
 }
 
 /* Friends */
 #userinfo_minor li:nth-child(6) a:before {
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -70px 0px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -70px 0px;
 }
 
 #userinfo_minor li:nth-child(6) a:hover:before {
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -70px -14px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -70px -14px;
 }
 
 /* Quote - Forums */
 .forum_post span a[href="#quickpost"]:before {
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') -118px -0px;
+	background: url('http://i.imgur.com/VlDtuho.png') -118px -0px;
 }
 
 .forum_post span a[href="#quickpost"]:hover:before {
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') -158px -0px;
+	background: url('http://i.imgur.com/VlDtuho.png') -158px -0px;
 }
 
 /* Edit - Forums */
 .forum_post a[onclick*="Edit_Form"]:before {
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') -132px -0px;
+	background: url('http://i.imgur.com/VlDtuho.png') -132px -0px;
 }
 
 .forum_post a[onclick*="Edit_Form"]:hover:before {
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') -172px -0px;
+	background: url('http://i.imgur.com/VlDtuho.png') -172px -0px;
 }
 
 /* Delete - Forums */
 .forum_post a[onclick*="Delete"]:before {
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') -144px -0px;
+	background: url('http://i.imgur.com/VlDtuho.png') -144px -0px;
 }
 
 .forum_post a[onclick*="Delete"]:hover:before {
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') -184px -0px;
+	background: url('http://i.imgur.com/VlDtuho.png') -184px -0px;
 }
 
 /* Comments col on requests.php */
 #requests tr.colhead_dark td:nth-child(9) strong:before {
-	background:url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') -85px -0px no-repeat;
+	background:url('http://i.imgur.com/VlDtuho.png') -85px -0px no-repeat;
 }
 
 /* Points */
@@ -2314,7 +2305,7 @@ table.forum_post .colhead_dark td {
 
 #forums table.forum_post.forum_unread tr.colhead_dark td {
 	background-color: rgba(255,255,255,0.3) !important;
-	background-image: url('https://dl.dropboxusercontent.com/s/36mricobj9pvub8/black50fill.png'), url('https://dl.dropboxusercontent.com/s/9l1lg3lcx5oer4o/galaxies.jpg');
+	background-image: url('http://i.imgur.com/EuyBhoI.png'), url('http://i.imgur.com/8jskTZ7.jpg');
 	background-size: 500px;
 	background-position: 75px center;
 	color: #fff !important;
@@ -2445,95 +2436,95 @@ tbody tr.rowa, tr.torrent:nth-child(2n) {
 }
 
 img[src*="grey.png"]{
-	background:url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') -0px -28px no-repeat;
+	background:url('http://i.imgur.com/VlDtuho.png') -0px -28px no-repeat;
 }
 
 img[src*="orangered.png"]{
-	background:url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') -25px -28px no-repeat;
+	background:url('http://i.imgur.com/VlDtuho.png') -25px -28px no-repeat;
 }
 
 img[src*="go_last_read.png"]{
-	background:url('https://dl.dropboxusercontent.com/s/tq0pb93e15evzxe/go_last_read.png');
+	background:url('http://i.imgur.com/pcpbyqy.png');
 }
 
 img[src*="apps.png"]{
-	background:url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') -0px -50px no-repeat;
+	background:url('http://i.imgur.com/VlDtuho.png') -0px -50px no-repeat;
 }
 
 img[src*="anime.png"]{
-	background:url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') -24px -50px no-repeat;
+	background:url('http://i.imgur.com/VlDtuho.png') -24px -50px no-repeat;
 }
 
 img[src*="audiobook.png"]{
-	background:url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') -48px -50px no-repeat;
+	background:url('http://i.imgur.com/VlDtuho.png') -48px -50px no-repeat;
 }
 
 img[src*="comics.png"]{
-	background:url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') -72px -50px no-repeat;
+	background:url('http://i.imgur.com/VlDtuho.png') -72px -50px no-repeat;
 }
 
 img[src*="ebook.png"]{
-	background:url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') -96px -50px no-repeat;
+	background:url('http://i.imgur.com/VlDtuho.png') -96px -50px no-repeat;
 }
 
 img[src*="elearning.png"]{
-	background:url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') -0px -74px no-repeat;
+	background:url('http://i.imgur.com/VlDtuho.png') -0px -74px no-repeat;
 }
 
 img[src*="games-console.png"]{
-	background:url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') -24px -74px no-repeat;
+	background:url('http://i.imgur.com/VlDtuho.png') -24px -74px no-repeat;
 }
 
 img[src*="games-pc.png"]{
-	background:url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') -48px -74px no-repeat;
+	background:url('http://i.imgur.com/VlDtuho.png') -48px -74px no-repeat;
 }
 
 img[src*="magazines.png"]{
-	background:url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') -72px -74px no-repeat;
+	background:url('http://i.imgur.com/VlDtuho.png') -72px -74px no-repeat;
 }
 
 img[src*="misc.png"]{
-	background:url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') -96px -74px no-repeat;
+	background:url('http://i.imgur.com/VlDtuho.png') -96px -74px no-repeat;
 }
 
 img[src*="movies.png"]{
-	background:url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') -0px -98px no-repeat;
+	background:url('http://i.imgur.com/VlDtuho.png') -0px -98px no-repeat;
 }
 
 img[src*="music.png"]{
-	background:url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') -24px -98px no-repeat;
+	background:url('http://i.imgur.com/VlDtuho.png') -24px -98px no-repeat;
 }
 
 img[src*="resources.png"]{
-	background:url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') -48px -98px no-repeat;
+	background:url('http://i.imgur.com/VlDtuho.png') -48px -98px no-repeat;
 }
 
 img[src*="tv.png"]{
-	background:url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') -72px -98px no-repeat;
+	background:url('http://i.imgur.com/VlDtuho.png') -72px -98px no-repeat;
 }
 
 img[src*="comments.gif"]{
-	background:url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') -85px -0px no-repeat;
+	background:url('http://i.imgur.com/VlDtuho.png') -85px -0px no-repeat;
 }
 
 img[src*="snatched.png"]{
-	background:url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') -100px -0px no-repeat;
+	background:url('http://i.imgur.com/VlDtuho.png') -100px -0px no-repeat;
 }
 
 img[src*="seeders.png"]{
-	background:url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') -85px -15px no-repeat;
+	background:url('http://i.imgur.com/VlDtuho.png') -85px -15px no-repeat;
 }
 
 img[src*="leechers.png"]{
-	background:url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') -100px -15px no-repeat;
+	background:url('http://i.imgur.com/VlDtuho.png') -100px -15px no-repeat;
 }
 
 img[src*="/misc/checked-true.png"]{
-	background:url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') -63px -28px no-repeat;
+	background:url('http://i.imgur.com/VlDtuho.png') -63px -28px no-repeat;
 }
 
 img[src*="/misc/checked-false.png"]{
-	background:url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') -96px -98px no-repeat;
+	background:url('http://i.imgur.com/VlDtuho.png') -96px -98px no-repeat;
 }
 
 img[src*="/symbols/bacon"]{					/* Bacon Icons */
@@ -2685,37 +2676,37 @@ hr {
 /* Tiny Little Icons */
 /* Plus */
 #torrents ul.nobullet li a:nth-child(2):before {
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -90px -30px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -90px -30px;
 }
 
 #torrents ul.nobullet li a:nth-child(2):hover:before {
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -106px -30px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -106px -30px;
 }
 
 /* Minus */
 #torrents ul.nobullet li a:nth-child(3):before {
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -98px -30px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -98px -30px;
 }
 
 #torrents ul.nobullet li a:nth-child(3):hover:before {
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -114px -30px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -114px -30px;
 }
 
 /* Delete*/
 #torrents ul.nobullet li a:nth-child(4):before {
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -90px -38px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -90px -38px;
 }
 
 #torrents ul.nobullet li a:nth-child(4):hover:before {
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -106px -38px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -106px -38px;
 }
 
 /* User */
 #torrents ul.nobullet li a:nth-child(5):before {
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -98px -38px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -98px -38px;
 }
 #torrents ul.nobullet li a:nth-child(5):hover:before {
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -114px -38px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -114px -38px;
 }
 
 #torrents ul.nobullet li:hover {
@@ -2733,7 +2724,7 @@ button, input[type="button"], input[type="submit"] {
 	border-radius: 0;
 	outline: 0;
 	background: #333;
-	background-image:url('https://dl.dropboxusercontent.com/s/9l1lg3lcx5oer4o/galaxies.jpg');
+	background-image:url('http://i.imgur.com/8jskTZ7.jpg');
 	background-size: 800px auto;
 	background-position: 0px 10px;
 	box-shadow: 1px 0px 1px #8dfec0 ,0px 1px 1px #466e58,2px 1px 1px #8dfec0 ,1px 2px 1px #466e58,3px 2px 1px #8dfec0 ,2px 3px 1px #466e58,4px 3px 1px #8dfec0 ,3px 4px 1px #466e58,5px 4px 1px #8dfec0 ,4px 5px 1px #466e58,6px 5px 1px #8dfec0 ;
@@ -2827,7 +2818,7 @@ span.user_class.developer:before {
 	display: inline-block;
 	width: 20px;
 	height: 16px;
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -168px -47px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -168px -47px;
 	margin: -4px 4px -4px 0px;
 }
 
@@ -2837,7 +2828,7 @@ span.user_class.junior_developer:before {
 	display: inline-block;
 	width: 20px;
 	height: 16px;
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -168px -47px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -168px -47px;
 	margin: -4px 4px -4px 0px;
 }
 
@@ -2847,7 +2838,7 @@ span.user_class.moderator:before {
 	display: inline-block;
 	width: 16px;
 	height: 16px;
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -136px -47px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -136px -47px;
 	margin: -3px 3px -3px 0px;
 }
 
@@ -2857,7 +2848,7 @@ span.user_class.helper:before {
 	display: inline-block;
 	width: 16px;
 	height: 16px;
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -120px -47px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -120px -47px;
 	margin: -3px 3px -3px 0px;
 }
 
@@ -2867,7 +2858,7 @@ span.user_class.sysop:before {
 	display: inline-block;
 	width: 16px;
 	height: 16px;
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -152px -47px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -152px -47px;
 	margin: -3px 1px;
 }
 
@@ -2877,7 +2868,7 @@ span.user_class.administrator:before {
 	display: inline-block;
 	width: 16px;
 	height: 16px;
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -152px -47px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -152px -47px;
 	margin: -3px 1px;
 }
 
@@ -2887,7 +2878,7 @@ span.user_class.legend:before {
 	display: inline-block;
 	width: 16px;
 	height: 16px;
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -152px -63px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -152px -63px;
 	margin: -3px 1px;
 }
 
@@ -2897,7 +2888,7 @@ span.user_class.vip:before {
 	display: inline-block;
 	width: 27px;
 	height: 16px;
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -168px -63px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -168px -63px;
 	margin: -5px 1px;
 }
 
@@ -2907,7 +2898,7 @@ span.user_class.torrent_celebrity:before {
 	display: inline-block;
 	width: 27px;
 	height: 16px;
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -168px -63px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -168px -63px;
 	margin: -5px 1px;
 }
 
@@ -2917,7 +2908,7 @@ span.user_class.user:before {
 	display: inline-block;
 	width: 16px;
 	height: 16px;
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -120px -79px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -120px -79px;
 	margin: -4px 2px -4px 0px;
 }
 
@@ -2927,7 +2918,7 @@ span.user_class.member:before {
 	display: inline-block;
 	width: 16px;
 	height: 16px;
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -136px -79px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -136px -79px;
 	margin: -4px 2px -4px 0px;
 }
 
@@ -2937,7 +2928,7 @@ span.user_class.power_user:before {
 	display: inline-block;
 	width: 16px;
 	height: 16px;
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -152px -79px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -152px -79px;
 	margin: -4px 2px -4px 0px;
 }
 
@@ -2947,7 +2938,7 @@ span.user_class.elite:before {
 	display: inline-block;
 	width: 16px;
 	height: 16px;
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -168px -79px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -168px -79px;
 	margin: -4px 2px -4px 0px;
 }
 
@@ -2957,7 +2948,7 @@ span.user_class.torrentmaster:before {
 	display: inline-block;
 	width: 16px;
 	height: 16px;
-	background: url('https://dl.dropboxusercontent.com/s/zvutedtuiybn40x/galaxies-icons.png') no-repeat -184px -79px;
+	background: url('http://i.imgur.com/VlDtuho.png') no-repeat -184px -79px;
 	margin: -5px 1px -5px 0px;
 }
 
